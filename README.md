@@ -8,11 +8,7 @@ such as (the main subject, the target group, the language of speaking,
 the names of the lecturers, and the platform provided)
 
 	
-## Live Application URL
-	
 
-### https://thebest-courses-svu.netlify.app/
-This URL has the application deployed in
 
 ## Prerequisites
 	
